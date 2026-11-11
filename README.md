@@ -1,4 +1,4 @@
-# Gems semantic search experiment
+# HotSpots semantic search experiment
 
 A small tourism search prototype using **pretrained Google News Word2Vec**.
 There is no custom neural network or training loop, and PyTorch is no longer needed.
